@@ -6,7 +6,10 @@
     color: #0070D1;
 }
 
-.background {
-    background-image: url('/img/returnal-listing-thumb-01-ps5.jpg');
+.background_img {
+    background-image: url('../img/jumbo-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
     margin-top: 200px;
+    
 }
