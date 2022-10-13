@@ -15,7 +15,11 @@
     height: 100vh;
 }
 
-.returnal {
-    width: 30%;
-    margin-top: 400px;
+.img_returnal {
+    width: 300px;
+    margin-top: 650px;
+}
+
+.inizio {
+    width: 350px;
 }
