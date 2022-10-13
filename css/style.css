@@ -10,5 +10,7 @@
     background-image: url('../img/jumbo-bg.png');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
+    margin-top: 115px;
     height: 100vh;
 }
