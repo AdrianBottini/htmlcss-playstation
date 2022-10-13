@@ -23,3 +23,24 @@
 .inizio {
     width: 350px;
 }
+
+.play {
+    width: 500px;
+}
+
+.background_img2 {
+    background-image: url('../img/it-takes-two-hero-banner-desktop.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.img_takes {
+    width: 500px;
+    margin-top: 150px;
+}
+
+.logo_2 {
+    width: 500px;
+}
