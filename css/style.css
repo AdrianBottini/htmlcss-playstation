@@ -5,3 +5,10 @@
 .color {
     color: #0070D1;
 }
+
+.background {
+    background-image: url('img/returnal-listing-thumb-01-ps5.jpg');
+    margin-top: 200px;
+    width: 500px;
+    height: 500px;
+}
