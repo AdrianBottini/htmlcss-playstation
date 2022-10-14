@@ -6,6 +6,22 @@
     color: #0070D1;
 }
 
+.dropdown {
+    position: static;
+}
+
+.dropdown-menu {
+    width: 100%;
+    margin-top: 0;
+    border: none;
+}
+
+.dropdown-menu.show {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 .background_img {
     background-image: url('../img/jumbo-bg.png');
     background-repeat: no-repeat;
@@ -13,6 +29,7 @@
     background-position: center;
     margin-top: 115px;
     height: 100vh;
+    width: 100vw;
 }
 
 .img_returnal {
@@ -24,16 +41,13 @@
     width: 350px;
 }
 
-.play {
-    width: 500px;
-}
-
 .background_img2 {
     background-image: url('../img/it-takes-two-hero-banner-desktop.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     height: 100vh;
+    width: 100vw;
 }
 
 .img_takes {
@@ -41,6 +55,16 @@
     margin-top: 150px;
 }
 
-.logo_2 {
-    width: 500px;
+.bordo {
+    border-radius: 25px;
+}
+
+.card-game.active {
+    border: 3px solid blue;
+}
+
+.card-game:hover {
+    border: 3px solid blue;
+    transform: translateY(-20px);
+    transition: 0.5s;
 }
