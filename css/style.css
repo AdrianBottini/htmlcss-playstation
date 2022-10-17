@@ -69,6 +69,29 @@
     transition: 0.5s;
 }
 
-.box{
-    box-sizing: content-box;
+
+footer {
+    background-color: #00439c;
+}
+
+footer .container {
+    padding-top: 3.5rem;
+}
+
+footer .globe {
+    width: 2.6%;
+    margin-right: 4rem;
+    max-width: 12px;
+}
+
+footer .list {
+    gap: 5rem;
+}
+
+footer ul {
+    line-height: 1.5rem;
+}
+
+footer .sony-interactive-logo {
+    max-width: 90px;
 }
